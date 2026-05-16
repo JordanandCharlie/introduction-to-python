@@ -29,8 +29,11 @@ TEMPLATES: dict[str, dict] = {
         "wander": True,
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "fanciful_bard": {
 =======
+=======
+>>>>>>> Stashed changes
     
     
     
@@ -39,6 +42,9 @@ TEMPLATES: dict[str, dict] = {
     
     
     "fanciful_Bard": {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "name": "Marloe the Bard",
         "key_words": ("Bard", "Marloe", "Siren"),
